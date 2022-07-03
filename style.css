@@ -1,32 +1,22 @@
-canvas {
-    border-style: groove;
-    border-color: teal;
-    border-width: 5px;
-    outline-color: red;
-    outline-style: dashed;
-    outline-width: 3px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    box-shadow: 3px;
-}
-
-body {
-    background-size: cover;
-}
-
-.heading {
-    width: 100%;
-    margin: 0;
-    font-size: 20px;
-}
-
-.note {
-    color: black;
-    font-size: 15px;
-}
-
-.song_name {
-    font-size: 20px;
-}
+        canvas {
+            padding-top: 120px;
+        }
+        
+        body {
+            background-size: cover;
+        }
+        
+        .heading {
+            width: 100%;
+            margin: 0;
+            font-size: 20px;
+        }
+        
+        .note {
+            color: black;
+            font-size: 15px;
+        }
+        
+        .song_name {
+            font-size: 20px;
+        }
